@@ -1,0 +1,13 @@
+{
+  "name": "I2C Demo",
+  "apiVersion": "1.0.0",
+  "author": "Mark",
+  "version": "0.0.1",
+  "description": "A quick demo",
+  "extensions": {
+    "I2C Demo": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
